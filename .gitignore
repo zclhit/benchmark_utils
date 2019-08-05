@@ -1,2 +1,2 @@
-/benchmark_mysql
 *.xml
+benchmark_mysql/target/
