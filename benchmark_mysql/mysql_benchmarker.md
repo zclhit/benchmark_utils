@@ -1,7 +1,7 @@
 ### basic parameter
 - factory number: 20k
 - equipment number: 200k
-- oil inspection number:50k
+- oil inspection maintenance number:50k
 - all maintenance record:400k
 
 other information: 
@@ -21,12 +21,10 @@ other information:
 
 100k custom maintenance record - for 50k equipments - total 150k
 
-50k device maintenance with 25k fault and 25k 3 accessories changed - for 25k equipments -total 200k
-
-50k device maintenance with 25k 1 accessory changed - total 250k
+100k device maintenance with 1 fault and 1 accessories changed -total 250k
 
 50k add oil maintenance record with oil information - total 300k
 
-50k check maintenance record with 25k warning - total 350k
+50k check maintenance record with 1 warning - total 350k
 
 50k oil injection record - total 400k
